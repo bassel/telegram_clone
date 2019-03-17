@@ -5,7 +5,7 @@ A Telegram clone built with Flutter.
 
 ### Screenshots
 
-<img src="screenshots/main.jpg" height="350em" />  <img src="screenshots/drawer.jpg" height="350em"/>
+<img src="screenshots/drawer.jpg" height="500em" /> &nbsp;&nbsp; <img src="screenshots/main.jpg" height="500em"/>
 
 
 ## Flutter Resources
