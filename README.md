@@ -1,10 +1,14 @@
 # telegram_clone
+[![Donate](https://img.shields.io/badge/Donate-Buy%20me%20a%20Coffee-orange.svg)](https://www.buymeacoffee.com/basselch)
 
 A Telegram clone built with Flutter.
 
-## Getting Started
+### Screenshots
 
-This project is a starting point for a Flutter application.
+<img src="screenshots/main.jpg" height="350em" />  <img src="screenshots/drawer.jpg" height="350em"/>
+
+
+## Flutter Resources
 
 A few resources to get you started if this is your first Flutter project:
 
